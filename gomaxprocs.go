@@ -1,3 +1,4 @@
+// Package gomaxprocs offers a slightly nicer interface to runtime.GOMAXPROCS.
 package gomaxprocs
 
 import (
